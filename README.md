@@ -1,4 +1,4 @@
-# Background Video Project
+# Background Video Player
 
 ## About📝
 
@@ -16,7 +16,7 @@
 
 ## Project Link🚀
 
-**https://backgroundvideo-feature.netlify.app/**
+**https://background-video-player.netlify.app/**
 
 ## Creator⭐
 
